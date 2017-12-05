@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Mapa sin nombre</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>sharkspotter-beaches.csv</name>
+      <Placemark>
+        <name>Muizenberg</name>
+        <description><![CDATA[Lat: -34.110029<br>Long: 18.465733<br>Type: Permanent Beach<br>Description: Muizenberg is a permanent sharkspotter beach. Shakspotters are on duty from 8am - 6pm, 365 days of the year. <br>URL link: http://twitter.com/SharkSpotters]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>-34.110029</value>
+          </Data>
+          <Data name="Long">
+            <value>18.465733</value>
+          </Data>
+          <Data name="Type">
+            <value>Permanent Beach</value>
+          </Data>
+          <Data name="Description">
+            <value>Muizenberg is a permanent sharkspotter beach. Shakspotters are on duty from 8am - 6pm, 365 days of the year. </value>
+          </Data>
+          <Data name="URL link">
+            <value>http://twitter.com/SharkSpotters</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            18.465733,-34.110029,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fish Hoek Beach</name>
+        <description><![CDATA[Lat: -34.142427<br>Long: 18.433342<br>Type: Permanent Beach<br>Description: Fish Hoek beach is a permanent sharkspotter beach. Shakspotters are on duty from 8am - 6pm (7am to 6:45pm in Summer), 365 days of the year.<br>URL link: http://twitter.com/SharkSpotters]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>-34.142427</value>
+          </Data>
+          <Data name="Long">
+            <value>18.433342</value>
+          </Data>
+          <Data name="Type">
+            <value>Permanent Beach</value>
+          </Data>
+          <Data name="Description">
+            <value>Fish Hoek beach is a permanent sharkspotter beach. Shakspotters are on duty from 8am - 6pm (7am to 6:45pm in Summer), 365 days of the year.</value>
+          </Data>
+          <Data name="URL link">
+            <value>http://twitter.com/SharkSpotters</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            18.433342,-34.142427,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>St James </name>
+        <description><![CDATA[Lat: -34.118484<br>Long: 18.4548<br>Type: Permanent Beach<br>Description: St.James/Kalk Bay is a permanent sharkspotter spot. Shakspotters are on duty from 8am - 6pm, 365 days of the year. <br>URL link: http://twitter.com/SharkSpotters]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>-34.118484</value>
+          </Data>
+          <Data name="Long">
+            <value>18.4548</value>
+          </Data>
+          <Data name="Type">
+            <value>Permanent Beach</value>
+          </Data>
+          <Data name="Description">
+            <value>St.James/Kalk Bay is a permanent sharkspotter spot. Shakspotters are on duty from 8am - 6pm, 365 days of the year. </value>
+          </Data>
+          <Data name="URL link">
+            <value>http://twitter.com/SharkSpotters</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            18.4548,-34.118484,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Hoek, Noordhoek</name>
+        <description><![CDATA[Lat: -34.09489<br>Long: 18.353519<br>Type: Permanent Beach<br>Description: The Hoek (Noordhoek) is a permanent sharkspotter beach. Shakspotters are on duty from 9am - 5pm, 365 days of the year. <br>URL link: http://twitter.com/SharkSpotters]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>-34.09489</value>
+          </Data>
+          <Data name="Long">
+            <value>18.353519</value>
+          </Data>
+          <Data name="Type">
+            <value>Permanent Beach</value>
+          </Data>
+          <Data name="Description">
+            <value>The Hoek (Noordhoek) is a permanent sharkspotter beach. Shakspotters are on duty from 9am - 5pm, 365 days of the year. </value>
+          </Data>
+          <Data name="URL link">
+            <value>http://twitter.com/SharkSpotters</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            18.353519,-34.09489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clovelly</name>
+        <description><![CDATA[Lat: -34.131345<br>Long: 18.440895<br>Type: Temporary Beach<br>Description: Clovelly Beach is a temporary sharkspotter beach. Sharkspotters are on duty from 10am - 5:30pm, from April to October, during school vacation and on public holidays. <br>URL link: http://twitter.com/SharkSpotters]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>-34.131345</value>
+          </Data>
+          <Data name="Long">
+            <value>18.440895</value>
+          </Data>
+          <Data name="Type">
+            <value>Temporary Beach</value>
+          </Data>
+          <Data name="Description">
+            <value>Clovelly Beach is a temporary sharkspotter beach. Sharkspotters are on duty from 10am - 5:30pm, from April to October, during school vacation and on public holidays. </value>
+          </Data>
+          <Data name="URL link">
+            <value>http://twitter.com/SharkSpotters</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            18.440895,-34.131345,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Glencairn</name>
+        <description><![CDATA[Lat: -34.162457<br>Long: 18.431196<br>Type: Temporary Beach<br>Description: Glencairn beach is a temporary sharkspotter beach. Sharkspotters are on duty from 8am - 6pm, from April to October, during school vacation and on public holidays. <br>URL link: http://twitter.com/SharkSpotters]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>-34.162457</value>
+          </Data>
+          <Data name="Long">
+            <value>18.431196</value>
+          </Data>
+          <Data name="Type">
+            <value>Temporary Beach</value>
+          </Data>
+          <Data name="Description">
+            <value>Glencairn beach is a temporary sharkspotter beach. Sharkspotters are on duty from 8am - 6pm, from April to October, during school vacation and on public holidays. </value>
+          </Data>
+          <Data name="URL link">
+            <value>http://twitter.com/SharkSpotters</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            18.431196,-34.162457,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Caves, Koeel Bay</name>
+        <description><![CDATA[Lat: -34.226293<br>Long: 18.842218<br>Type: Temporary Beach<br>Description: The Caves is a permanent sharkspotter beach. Shakspotters are on duty from 9am - 5pm, 365 days of the year. <br>URL link: http://twitter.com/SharkSpotters]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>-34.226293</value>
+          </Data>
+          <Data name="Long">
+            <value>18.842218</value>
+          </Data>
+          <Data name="Type">
+            <value>Temporary Beach</value>
+          </Data>
+          <Data name="Description">
+            <value>The Caves is a permanent sharkspotter beach. Shakspotters are on duty from 9am - 5pm, 365 days of the year. </value>
+          </Data>
+          <Data name="URL link">
+            <value>http://twitter.com/SharkSpotters</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            18.842218,-34.226293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monwabisi</name>
+        <description><![CDATA[Lat: -34.077616<br>Long: 18.750652<br>Type: Temporary Beach<br>Description: Monwabisi beach is a temporary sharkspotter beach. Sharkspotters are on duty from 8am - 6pm, from April to October, during school vacation and on public holidays. <br>URL link: http://twitter.com/SharkSpotters]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="Lat">
+            <value>-34.077616</value>
+          </Data>
+          <Data name="Long">
+            <value>18.750652</value>
+          </Data>
+          <Data name="Type">
+            <value>Temporary Beach</value>
+          </Data>
+          <Data name="Description">
+            <value>Monwabisi beach is a temporary sharkspotter beach. Sharkspotters are on duty from 8am - 6pm, from April to October, during school vacation and on public holidays. </value>
+          </Data>
+          <Data name="URL link">
+            <value>http://twitter.com/SharkSpotters</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            18.750652,-34.077616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

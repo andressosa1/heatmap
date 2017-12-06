@@ -1,0 +1,4924 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Mapa sin nombre</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>http://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="16" xunits="pixels" y="32" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Libro2.csv</name>
+      <Placemark>
+        <name>medellin antioquia</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CALLE 35 CON 65F-63 ,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.242683<br>long: -75.556701]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.242683</value>
+          </Data>
+          <Data name="long">
+            <value>-75.556701</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.556701,6.242683,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TURBO, ,ANTIOQUIA</name>
+        <description><![CDATA[lat: 8.095159<br>long: -76.728456]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>8.095159</value>
+          </Data>
+          <Data name="long">
+            <value>-76.728456</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.728456,8.095159,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LOMA DE LOS BERNAL,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.217812<br>long: -75.604077]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.217812</value>
+          </Data>
+          <Data name="long">
+            <value>-75.604077</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.604077,6.217812,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CARRERA 13 CON CALLE 50,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.233399<br>long: -75.540606]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.233399</value>
+          </Data>
+          <Data name="long">
+            <value>-75.540606</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.540606,6.233399,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>VALDIVIA,ANTIOQUIA</name>
+        <description><![CDATA[lat: 7.29117<br>long: -75.39215]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>7.29117</value>
+          </Data>
+          <Data name="long">
+            <value>-75.39215</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.39215,7.29117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CARRERA 59 # 48-20 BARRIO TRISTE,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.251296<br>long: -75.57619]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.251296</value>
+          </Data>
+          <Data name="long">
+            <value>-75.57619</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.57619,6.251296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CARRERA 43A CON 41 ENVIGADO,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.157413<br>long: -75.604599]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.157413</value>
+          </Data>
+          <Data name="long">
+            <value>-75.604599</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.604599,6.157413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SEGOVIA,ANTIOQUIA</name>
+        <description><![CDATA[lat: 7.079604<br>long: -74.699095]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>7.079604</value>
+          </Data>
+          <Data name="long">
+            <value>-74.699095</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -74.699095,7.079604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GIRARDOTA,ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.378322<br>long: -75.449517]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.378322</value>
+          </Data>
+          <Data name="long">
+            <value>-75.449517</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.449517,6.378322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CAICEDO- ,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.242251<br>long: -75.554599]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.242251</value>
+          </Data>
+          <Data name="long">
+            <value>-75.554599</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.554599,6.242251,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CALLE 10 AUTOPISTA,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.210734<br>long: -75.570814]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.210734</value>
+          </Data>
+          <Data name="long">
+            <value>-75.570814</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.570814,6.210734,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CARRERA 52 CON 25 MED.,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.260133<br>long: -75.567387]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.260133</value>
+          </Data>
+          <Data name="long">
+            <value>-75.567387</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.567387,6.260133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> CAMPOS DE PAZ,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.206434<br>long: -75.590879]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.206434</value>
+          </Data>
+          <Data name="long">
+            <value>-75.590879</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.590879,6.206434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SAN ANDRES DE CUERQUÌA,ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.913245<br>long: -75.67556]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.913245</value>
+          </Data>
+          <Data name="long">
+            <value>-75.67556</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.67556,6.913245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AVENIDA BOLIVARIANA CON  calle 44,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.24804<br>long: -75.580669]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.24804</value>
+          </Data>
+          <Data name="long">
+            <value>-75.580669</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.580669,6.24804,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CHIGORODÓ,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.278841<br>long: -75.570084]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.278841</value>
+          </Data>
+          <Data name="long">
+            <value>-75.570084</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.570084,6.278841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SABANETA,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.150559<br>long: -75.61682]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.150559</value>
+          </Data>
+          <Data name="long">
+            <value>-75.61682</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.61682,6.150559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CARRERA 69 CON CALLE 73,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.273536<br>long: -75.579823]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.273536</value>
+          </Data>
+          <Data name="long">
+            <value>-75.579823</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.579823,6.273536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DON MATIAS,ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.485702<br>long: -75.393831]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.485702</value>
+          </Data>
+          <Data name="long">
+            <value>-75.393831</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.393831,6.485702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EL BAGRE ,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.249324<br>long: -75.590426]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.249324</value>
+          </Data>
+          <Data name="long">
+            <value>-75.590426</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.590426,6.249324,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>COCORNÁ,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.27794<br>long: -75.571986]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.27794</value>
+          </Data>
+          <Data name="long">
+            <value>-75.571986</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.571986,6.27794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LA ESTRELLA,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.138751<br>long: -75.635586]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.138751</value>
+          </Data>
+          <Data name="long">
+            <value>-75.635586</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.635586,6.138751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ALTO DE MINAS , ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.020278<br>long: -75.609444]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.020278</value>
+          </Data>
+          <Data name="long">
+            <value>-75.609444</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.609444,6.020278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TUMACO NARIÑO</name>
+        <description><![CDATA[lat: 1.787434<br>long: -78.791265]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>1.787434</value>
+          </Data>
+          <Data name="long">
+            <value>-78.791265</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -78.791265,1.787434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BOLOMBOLO,ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.00008<br>long: -75.81665]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.00008</value>
+          </Data>
+          <Data name="long">
+            <value>-75.81665</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.81665,6.00008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CALLE 80 CON 69 ROBLEDO,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.27853<br>long: -75.576823]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.27853</value>
+          </Data>
+          <Data name="long">
+            <value>-75.576823</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.576823,6.27853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CAMBIA A TELEFONICA,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.199207<br>long: -75.575282]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.199207</value>
+          </Data>
+          <Data name="long">
+            <value>-75.575282</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.575282,6.199207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CAMBIA A TELEFONICA,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.199207<br>long: -75.575282]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.199207</value>
+          </Data>
+          <Data name="long">
+            <value>-75.575282</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.575282,6.199207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CALLE 93 CON CARRERA 51A BARRIO ARANJUEZ,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.284807<br>long: -75.56159]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.284807</value>
+          </Data>
+          <Data name="long">
+            <value>-75.56159</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.56159,6.284807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>REMEDIOS,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.278841<br>long: -75.570084]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.278841</value>
+          </Data>
+          <Data name="long">
+            <value>-75.570084</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.570084,6.278841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CARRERA . 39 CON CALLE 56,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.249286<br>long: -75.557423]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.249286</value>
+          </Data>
+          <Data name="long">
+            <value>-75.557423</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.557423,6.249286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BARRIO LAURELES,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.251594<br>long: -75.588799]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.251594</value>
+          </Data>
+          <Data name="long">
+            <value>-75.588799</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.588799,6.251594,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ENVIGADO,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.169611<br>long: -75.587364]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.169611</value>
+          </Data>
+          <Data name="long">
+            <value>-75.587364</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.587364,6.169611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SAN JERONIMO,ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.442513<br>long: -75.728159]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.442513</value>
+          </Data>
+          <Data name="long">
+            <value>-75.728159</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.728159,6.442513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EL PEÑOL,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.18743<br>long: -75.51004]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.18743</value>
+          </Data>
+          <Data name="long">
+            <value>-75.51004</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.51004,6.18743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ITAGUI,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.167568<br>long: -75.614671]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.167568</value>
+          </Data>
+          <Data name="long">
+            <value>-75.614671</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.614671,6.167568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CALDAS,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.091497<br>long: -75.635519]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.091497</value>
+          </Data>
+          <Data name="long">
+            <value>-75.635519</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.635519,6.091497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CALDAS,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.091497<br>long: -75.635519]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.091497</value>
+          </Data>
+          <Data name="long">
+            <value>-75.635519</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.635519,6.091497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CALLE 37 CON CALLE 79,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244651<br>long: -75.599442]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244651</value>
+          </Data>
+          <Data name="long">
+            <value>-75.599442</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.599442,6.244651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>APARTADO,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 7.888056<br>long: -76.637961]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>7.888056</value>
+          </Data>
+          <Data name="long">
+            <value>-76.637961</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.637961,7.888056,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AMAGA,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 5.998791<br>long: -75.686649]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>5.998791</value>
+          </Data>
+          <Data name="long">
+            <value>-75.686649</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.686649,5.998791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PORCE,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PORCE,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name> CALLE 44 # 59-74,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.247204<br>long: -75.57756]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.247204</value>
+          </Data>
+          <Data name="long">
+            <value>-75.57756</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.57756,6.247204,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ENVIGADO,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.169611<br>long: -75.587364]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.169611</value>
+          </Data>
+          <Data name="long">
+            <value>-75.587364</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.587364,6.169611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RONEGRO,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.253041<br>long: -75.564574]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.253041</value>
+          </Data>
+          <Data name="long">
+            <value>-75.564574</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.564574,6.253041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ENVIGADO,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.169611<br>long: -75.587364]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.169611</value>
+          </Data>
+          <Data name="long">
+            <value>-75.587364</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.587364,6.169611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EL RETIRO,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.216587<br>long: -75.586571]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.216587</value>
+          </Data>
+          <Data name="long">
+            <value>-75.586571</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.586571,6.216587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>COPACABANA,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.253041<br>long: -75.564574]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.253041</value>
+          </Data>
+          <Data name="long">
+            <value>-75.564574</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.564574,6.253041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ELIAS,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.230451<br>long: -75.580124]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.230451</value>
+          </Data>
+          <Data name="long">
+            <value>-75.580124</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.580124,6.230451,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BETULIA,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.020419<br>long: -75.896379]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.020419</value>
+          </Data>
+          <Data name="long">
+            <value>-75.896379</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.896379,6.020419,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ROBLEDO ,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.276999<br>long: -75.596802]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.276999</value>
+          </Data>
+          <Data name="long">
+            <value>-75.596802</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.596802,6.276999,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SAN JERONIMO,ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.442513<br>long: -75.728159]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.442513</value>
+          </Data>
+          <Data name="long">
+            <value>-75.728159</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.728159,6.442513,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SUPIA,ANTIOQUIA</name>
+        <description><![CDATA[lat: 5.45589<br>long: -75.650401]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>5.45589</value>
+          </Data>
+          <Data name="long">
+            <value>-75.650401</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.650401,5.45589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ENVIGADO,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.169611<br>long: -75.587364]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.169611</value>
+          </Data>
+          <Data name="long">
+            <value>-75.587364</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.587364,6.169611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GUARNE,ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.279597<br>long: -75.442627]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.279597</value>
+          </Data>
+          <Data name="long">
+            <value>-75.442627</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.442627,6.279597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BARBOSA,ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.438791<br>long: -75.334099]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.438791</value>
+          </Data>
+          <Data name="long">
+            <value>-75.334099</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.334099,6.438791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SAN JUAN,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.249389<br>long: -75.590739]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.249389</value>
+          </Data>
+          <Data name="long">
+            <value>-75.590739</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.590739,6.249389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BELMIRA,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.27794<br>long: -75.571986]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.27794</value>
+          </Data>
+          <Data name="long">
+            <value>-75.571986</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.571986,6.27794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DORADAL,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 5.92737<br>long: -74.727176]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>5.92737</value>
+          </Data>
+          <Data name="long">
+            <value>-74.727176</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -74.727176,5.92737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SANTA ELENA,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.210509<br>long: -75.498419]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.210509</value>
+          </Data>
+          <Data name="long">
+            <value>-75.498419</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.498419,6.210509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MARINILLA,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.172826<br>long: -75.336323]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.172826</value>
+          </Data>
+          <Data name="long">
+            <value>-75.336323</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.336323,6.172826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GIRARDOTA,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.249645<br>long: -75.561716]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.249645</value>
+          </Data>
+          <Data name="long">
+            <value>-75.561716</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.561716,6.249645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SAN CARLOS,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.223206<br>long: -75.600803]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.223206</value>
+          </Data>
+          <Data name="long">
+            <value>-75.600803</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.600803,6.223206,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CALDAS,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.091497<br>long: -75.635519]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.091497</value>
+          </Data>
+          <Data name="long">
+            <value>-75.635519</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.635519,6.091497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AMAGA-TITRIBI,ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.037113<br>long: -75.702277]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.037113</value>
+          </Data>
+          <Data name="long">
+            <value>-75.702277</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.702277,6.037113,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SANTA ELENA,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.210509<br>long: -75.498419]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.210509</value>
+          </Data>
+          <Data name="long">
+            <value>-75.498419</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.498419,6.210509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>U.NACIONAL,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.261464<br>long: -75.577207]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.261464</value>
+          </Data>
+          <Data name="long">
+            <value>-75.577207</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.577207,6.261464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RIONEGRO,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.278278<br>long: -75.571206]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.278278</value>
+          </Data>
+          <Data name="long">
+            <value>-75.571206</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.571206,6.278278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SAN LUIS,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.200291<br>long: -75.551426]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.200291</value>
+          </Data>
+          <Data name="long">
+            <value>-75.551426</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.551426,6.200291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CALDAS,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.091497<br>long: -75.635519]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.091497</value>
+          </Data>
+          <Data name="long">
+            <value>-75.635519</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.635519,6.091497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DABEIBA</name>
+        <description><![CDATA[lat: 6.997374<br>long: -76.256824]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.997374</value>
+          </Data>
+          <Data name="long">
+            <value>-76.256824</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -76.256824,6.997374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SAN JERONIMO,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.277563<br>long: -75.613992]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.277563</value>
+          </Data>
+          <Data name="long">
+            <value>-75.613992</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.613992,6.277563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SAN PEDRO,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.266943<br>long: -75.560421]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.266943</value>
+          </Data>
+          <Data name="long">
+            <value>-75.560421</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.560421,6.266943,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MARINILLA,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.172826<br>long: -75.336323]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.172826</value>
+          </Data>
+          <Data name="long">
+            <value>-75.336323</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.336323,6.172826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PUERTO BERRIO,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.2742<br>long: -75.577724]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.2742</value>
+          </Data>
+          <Data name="long">
+            <value>-75.577724</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.577724,6.2742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MACEO,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.279879<br>long: -75.571231]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.279879</value>
+          </Data>
+          <Data name="long">
+            <value>-75.571231</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.571231,6.279879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MACEO,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.279879<br>long: -75.571231]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.279879</value>
+          </Data>
+          <Data name="long">
+            <value>-75.571231</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.571231,6.279879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GUARNE,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.253041<br>long: -75.564574]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.253041</value>
+          </Data>
+          <Data name="long">
+            <value>-75.564574</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.564574,6.253041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SAN JAUN,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.249389<br>long: -75.590739]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.249389</value>
+          </Data>
+          <Data name="long">
+            <value>-75.590739</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.590739,6.249389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ITAGUI,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.167568<br>long: -75.614671]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.167568</value>
+          </Data>
+          <Data name="long">
+            <value>-75.614671</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.614671,6.167568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ITAGUI,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.167568<br>long: -75.614671]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.167568</value>
+          </Data>
+          <Data name="long">
+            <value>-75.614671</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.614671,6.167568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GUAYABAL,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.210293<br>long: -75.588799]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.210293</value>
+          </Data>
+          <Data name="long">
+            <value>-75.588799</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.588799,6.210293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TARSO,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.216587<br>long: -75.586571]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.216587</value>
+          </Data>
+          <Data name="long">
+            <value>-75.586571</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.586571,6.216587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LA CEJA,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.032054<br>long: -75.42834]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.032054</value>
+          </Data>
+          <Data name="long">
+            <value>-75.42834</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.42834,6.032054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EL POBLADO,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.20199<br>long: -75.568425]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.20199</value>
+          </Data>
+          <Data name="long">
+            <value>-75.568425</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.568425,6.20199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TARAZA,ANTIOQUIA</name>
+        <description><![CDATA[lat: 7.583191<br>long: -75.399966]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>7.583191</value>
+          </Data>
+          <Data name="long">
+            <value>-75.399966</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.399966,7.583191,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BELLO,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.336729<br>long: -75.559589]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.336729</value>
+          </Data>
+          <Data name="long">
+            <value>-75.559589</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.559589,6.336729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AVENIDA REGIONAL,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.255537<br>long: -75.577056]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.255537</value>
+          </Data>
+          <Data name="long">
+            <value>-75.577056</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.577056,6.255537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SAN JERONIMO,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.277563<br>long: -75.613992]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.277563</value>
+          </Data>
+          <Data name="long">
+            <value>-75.613992</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.613992,6.277563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ITAGUI,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.167568<br>long: -75.614671]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.167568</value>
+          </Data>
+          <Data name="long">
+            <value>-75.614671</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.614671,6.167568,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EL RETIRO. FIZEBAD.,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.099443<br>long: -75.50876]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.099443</value>
+          </Data>
+          <Data name="long">
+            <value>-75.50876</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.50876,6.099443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CALLE 44 ENTRE 50-51,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244404<br>long: -75.569824]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244404</value>
+          </Data>
+          <Data name="long">
+            <value>-75.569824</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.569824,6.244404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SABANETA,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.150559<br>long: -75.61682]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.150559</value>
+          </Data>
+          <Data name="long">
+            <value>-75.61682</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.61682,6.150559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CARACOLI,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.279879<br>long: -75.571231]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.279879</value>
+          </Data>
+          <Data name="long">
+            <value>-75.571231</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.571231,6.279879,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>EL POBLADO,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.20199<br>long: -75.568425]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.20199</value>
+          </Data>
+          <Data name="long">
+            <value>-75.568425</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.568425,6.20199,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LA ESTRELLA,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.138751<br>long: -75.635586]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.138751</value>
+          </Data>
+          <Data name="long">
+            <value>-75.635586</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.635586,6.138751,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ENVIGADO,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.169611<br>long: -75.587364]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.169611</value>
+          </Data>
+          <Data name="long">
+            <value>-75.587364</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.587364,6.169611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RIONEGRO,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.278278<br>long: -75.571206]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.278278</value>
+          </Data>
+          <Data name="long">
+            <value>-75.571206</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.571206,6.278278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ENVIGADO,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.169611<br>long: -75.587364]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.169611</value>
+          </Data>
+          <Data name="long">
+            <value>-75.587364</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.587364,6.169611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RIONEGRO AEROPUERTO,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.170763<br>long: -75.42762]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.170763</value>
+          </Data>
+          <Data name="long">
+            <value>-75.42762</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.42762,6.170763,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SABANETA,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.150559<br>long: -75.61682]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.150559</value>
+          </Data>
+          <Data name="long">
+            <value>-75.61682</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.61682,6.150559,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CALDAS,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.091497<br>long: -75.635519]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.091497</value>
+          </Data>
+          <Data name="long">
+            <value>-75.635519</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.635519,6.091497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>,MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MEDELLÍN ANTIOQUIA</name>
+        <description><![CDATA[lat: 6.244203<br>long: -75.581212]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="lat">
+            <value>6.244203</value>
+          </Data>
+          <Data name="long">
+            <value>-75.581212</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -75.581212,6.244203,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
